@@ -1,0 +1,125 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container-fluid .card-body #footerimg {
+    float: left;
+    margin-right: 30px;
+}
+.container-fluid .card-body #copyright {
+    font-size: x-small;
+    text-align: right;
+}
+.card-body .card-text #imageninstagram {
+    float: right;
+    text-align: right;
+}
+#header {
+    margin-bottom: 20px;
+}
+#carrucel {
+    margin-bottom: 20px;
+}
+#filados {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#clothingnavcontent1 #tabDropDownOne1 #textodropdown {
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+#represantes {
+    margin-bottom: 20px;
+    margin-top: 60px;
+}
+.card.col-md-4.col-lg-12 .card-body .card-text {
+    text-align: justify;
+
+}
+#inspiration {
+    margin-top: 40px;
+}
+#footer {
+    margin-top: 50px;
+}
+
+#home1 p #bauhausfont {
+    margin-left: 40px;
+    margin-right: 20px;
+    margin-top: 40px;
+}
+#clothingnavcontent1 #home1 #textobauhaus {
+    font-size: large;
+    float: left;
+    margin-right: 40px;
+}
+
+
+
+
+#inspire {
+    margin-top: 80px;
+}
+#textobauhaus p #imagenfontbauhaus {
+    float: left;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+div p #sturmblondfont {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+    font-size: large;
+    float: left;
+}
+#clothingnavcontent1 #home1 #parrafo {
+    font-size: large;
+}
+
+
+
+#home1 p #sturmblond {
+    margin-right: 20px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+
+}
+#clothingnavcontent1 #paneTwo1 #colorbauhaus {
+    margin-top: 40px;
+}
+#colorbauhaus center #paletabauhaus {
+    margin-bottom: 30px;
+}
+
+
+#footer {
+    margin-top: 50px;
+}
+.card #collapseOne1 #pantone2021 {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#pantone2021 center #pantone {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#collapseThree1 .card-body #estilosque {
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.card-body #estilosque #estilotred {
+    padding-bottom: 40px;
+}
+.card-body #estilosque #geometric {
+    padding-bottom: 40px;
+}
+#loultimo {
+    margin-bottom: 30px;
+    margin-top: 80px;
+}
+#tendencias {
+    margin-top: 80px;
+}
